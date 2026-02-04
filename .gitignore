@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Logs
+*.log
+nohup*.log
+
+# Model outputs
+*.npy
+*.npz
+*.pkl
+*.pickle
+
+# Results (optional - uncomment if you want to exclude)
+# results/
+# model_log/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
